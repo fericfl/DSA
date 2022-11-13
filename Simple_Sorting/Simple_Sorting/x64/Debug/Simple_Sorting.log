@@ -1,0 +1,5 @@
+﻿  Source1.c
+C:\Users\Eric Florea\Documents\University\DSA\Simple_Sorting\Simple_Sorting\Source1.c(52,19): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\Eric Florea\Documents\University\DSA\Simple_Sorting\Simple_Sorting\Source1.c(43,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Eric Florea\Documents\University\DSA\Simple_Sorting\Simple_Sorting\Source1.c(47,6): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Eric Florea\Documents\University\DSA\Simple_Sorting\Simple_Sorting\Source1.c(52,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
